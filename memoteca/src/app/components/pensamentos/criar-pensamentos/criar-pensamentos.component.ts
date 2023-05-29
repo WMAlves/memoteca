@@ -20,6 +20,6 @@ export class CriarPensamentosComponent {
   }
 
   cancelarPensamento(){
-    alert("Pensamento Cancelado");
+
   }
 }
